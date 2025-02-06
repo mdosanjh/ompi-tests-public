@@ -1,0 +1,13 @@
+
+---- Tests start: 20250206-162218 ----
+Tests (num = 1):
+     test_datatype0.x
+
+test_datatype0.x : passed : Match found on line 1
+
+
+1 of 1 tests passed (100.00%)
+0 of 1 tests failed (0.00%)
+
+---- Tests end: 20250206-162229 ----
+---- Total time required to run tests: 11.33 seconds
